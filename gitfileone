@@ -1,4 +1,10 @@
 Class test
 {
 sysetm.out.println("");
+
+}
+Class test
+{
+sysetm.out.println(" helo word");
+
 }
